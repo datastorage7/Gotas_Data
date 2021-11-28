@@ -1,0 +1,218 @@
+{
+"wallpaperclock.digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.clock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61298-android-8298",
+      "b1": "ca-app-pub-8617841782605504/5893475227",
+      "b2": "ca-app-pub-8617841782605504/1674318176",
+      "i1": "ca-app-pub-8617841782605504/6735073165",
+      "i2": "ca-app-pub-8617841782605504/1275573360",
+      "na1": "ca-app-pub-8617841782605504/8490582197",
+      "na2": "ca-app-pub-8617841782605504/8490582197",
+      "aid": "ca-app-pub-8617841782605504~7552620371",
+      "ao": "ca-app-pub-8617841782605504/7506471886",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"romandigitalclock.digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.romandigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61299-android-8389",
+      "b1": "ca-app-pub-8617841782605504/4896617586",
+      "b2": "ca-app-pub-8617841782605504/9849561368",
+      "i1": "ca-app-pub-8617841782605504/3938759132",
+      "i2": "ca-app-pub-8617841782605504/1386362383",
+      "na1": "ca-app-pub-8617841782605504/5439368283",
+      "na2": "ca-app-pub-8617841782605504/5439368283",
+      "aid": "ca-app-pub-8617841782605504~3966679291",
+      "ao": "ca-app-pub-8617841782605504/7873959931",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"newdigitalclocklivewallpaper.livewallpaper.clocklivewallpaper.newdigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61300-android-8484",
+      "b1": "ca-app-pub-8617841782605504/8504496582",
+      "b2": "ca-app-pub-8617841782605504/3176202180",
+      "i1": "ca-app-pub-8617841782605504/8045385481",
+      "i2": "ca-app-pub-8617841782605504/4305574739",
+      "na1": "ca-app-pub-8617841782605504/8436410173",
+      "na2": "ca-app-pub-8617841782605504/8436410173",
+      "aid": "ca-app-pub-8617841782605504~2505284192",
+      "ao": "ca-app-pub-8617841782605504/5810246838",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"neondigitalclocklivewallpaper.livewallpaper.clocklivewallpaper.neondigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61301-android-8585",
+      "b1": "ca-app-pub-8617841782605504/9156647982",
+      "b2": "ca-app-pub-8617841782605504/6527449361",
+      "i1": "ca-app-pub-8617841782605504/5022796004",
+      "i2": "ca-app-pub-8617841782605504/8578897636",
+      "na1": "ca-app-pub-8617841782605504/9366348465",
+      "na2": "ca-app-pub-8617841782605504/9366348465",
+      "aid": "ca-app-pub-8617841782605504~1703084827",
+      "ao": "ca-app-pub-8617841782605504/2800940112",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclock.digiclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61302-android-8693",
+      "b1": "ca-app-pub-8617841782605504/7146278924",
+      "b2": "ca-app-pub-8617841782605504/8311364395",
+      "i1": "ca-app-pub-8617841782605504/6806711038",
+      "i2": "ca-app-pub-8617841782605504/1362812669",
+      "na1": "ca-app-pub-8617841782605504/8791633392",
+      "na2": "ca-app-pub-8617841782605504/8791633392",
+      "aid": "ca-app-pub-8617841782605504~9281487673",
+      "ao": "ca-app-pub-8617841782605504/6883160512",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61303-android-8773",
+      "b1": "ca-app-pub-8617841782605504/9101108010",
+      "b2": "ca-app-pub-8617841782605504/2344127977",
+      "i1": "ca-app-pub-8617841782605504/5900229603",
+      "i2": "ca-app-pub-8617841782605504/6090256707",
+      "na1": "ca-app-pub-8617841782605504/5077773183",
+      "na2": "ca-app-pub-8617841782605504/5077773183",
+      "aid": "ca-app-pub-8617841782605504~4842494344",
+      "ao": "ca-app-pub-8617841782605504/9612092170",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclocklwp.digitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61304-android-8859",
+      "b1": "ca-app-pub-8617841782605504/1070772810",
+      "b2": "ca-app-pub-8617841782605504/1179240569",
+      "i1": "ca-app-pub-8617841782605504/5748384420",
+      "i2": "ca-app-pub-8617841782605504/4243731065",
+      "na1": "ca-app-pub-8617841782605504/1076794908",
+      "na2": "ca-app-pub-8617841782605504/1076794908",
+      "aid": "ca-app-pub-8617841782605504~5118485577",
+      "ao": "ca-app-pub-8617841782605504/6137549897",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"digiclocklivewallpaper.digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digiclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61305-android-8947",
+      "b1": "ca-app-pub-8617841782605504/1562383949",
+      "b2": "ca-app-pub-8617841782605504/9752823017",
+      "i1": "ca-app-pub-8617841782605504/9561251323",
+      "i2": "ca-app-pub-8617841782605504/9369679638",
+      "na1": "ca-app-pub-8617841782605504/7941586151",
+      "na2": "ca-app-pub-8617841782605504/7941586151",
+      "aid": "ca-app-pub-8617841782605504~9206028103",
+      "ao": "ca-app-pub-8617841782605504/3810769451",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"classicdigitalclock.digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.classicdigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61306-android-9016",
+      "b1": "ca-app-pub-8617841782605504/8853788868",
+      "b2": "ca-app-pub-8617841782605504/2096808828",
+      "i1": "ca-app-pub-8617841782605504/3156284219",
+      "i2": "ca-app-pub-8617841782605504/8153336312",
+      "na1": "ca-app-pub-8617841782605504/9801462735",
+      "na2": "ca-app-pub-8617841782605504/9801462735",
+      "aid": "ca-app-pub-8617841782605504~1358442229",
+      "ao": "ca-app-pub-8617841782605504/5862217722",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"digitalclocklivewallpaper.blazdigitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclock.blazdigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61307-android-9094",
+      "b1": "ca-app-pub-8617841782605504/2532808542",
+      "b2": "ca-app-pub-8617841782605504/3271175149",
+      "i1": "ca-app-pub-8617841782605504/6635705084",
+      "i2": "ca-app-pub-8617841782605504/8495581665",
+      "na1": "ca-app-pub-8617841782605504/6985928831",
+      "na2": "ca-app-pub-8617841782605504/6985928831",
+      "aid": "ca-app-pub-8617841782605504~2527324711",
+      "ao": "ca-app-pub-8617841782605504/8843604288",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"awesomedigitalclocklivewallpaper.digitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61308-android-9188",
+      "b1": "ca-app-pub-8617841782605504/1108457958",
+      "b2": "ca-app-pub-8617841782605504/5414588371",
+      "i1": "ca-app-pub-8617841782605504/6963419866",
+      "i2": "ca-app-pub-8617841782605504/9398011518",
+      "na1": "ca-app-pub-8617841782605504/1895052559",
+      "na2": "ca-app-pub-8617841782605504/1895052559",
+      "aid": "ca-app-pub-8617841782605504~4720399908",
+      "ao": "ca-app-pub-8617841782605504/4329644205",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ],
+"olddigitalclocklivewallpaper.livewallpaper.clocklivewallpaper.digitalclock.olddigitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61309-android-9250",
+      "b1": "ca-app-pub-8617841782605504/8962485524",
+      "b2": "ca-app-pub-8617841782605504/1822362104",
+      "i1": "ca-app-pub-8617841782605504/5378463730",
+      "i2": "ca-app-pub-8617841782605504/4995320352",
+      "na1": "ca-app-pub-8617841782605504/6572664161",
+      "na2": "ca-app-pub-8617841782605504/6572664161",
+      "aid": "ca-app-pub-8617841782605504~2971792248",
+      "ao": "ca-app-pub-8617841782605504/3946500821",
+      "rd": "/6499/example/rewarded",
+      "ird": "/21775744923/example/rewarded_interstitial",
+      "extra1": "1",
+      "extra2": "1"
+    }
+  ]  
+}
